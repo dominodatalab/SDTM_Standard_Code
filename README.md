@@ -1,4 +1,6 @@
-# Domino Data Lab Consultancy
+# Domino Data Lab SDTM Demo
 
-Setup repo for the Domino data lab consultancy work. Based off veramedimol.
+This is a demo project containing folder structure and programs used in the Domino SDTM clinical trial dmeo.
+
+Created by Veramed Ltd. on behalf of Domino Data Lab, Inc.
 
