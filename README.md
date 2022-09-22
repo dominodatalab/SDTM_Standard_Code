@@ -1,6 +1,24 @@
-# Domino Data Lab SDTM Demo
+# Domino Data Lab ADaM and TFL standard macro repo
 
-This is a demo project containing folder structure and programs used in the Domino SDTM clinical trial demo.
+This repo contains SDTM standard macros for the Domino Data Lab clinical demo.
 
-Created by Veramed Ltd. on behalf of Domino Data Lab, Inc.
+# Directory structure
+
+
+Standard library code (e.g. Company SAS macro library) is in the `share/macros` folder.
+
+```
+repo
+├───config
+│   └───macros
+├───sasconfig
+│   ├───preferences
+│   └───state
+└───share
+    └───macros
+
+# Support
+
+Programming was created by Veramed Ltd. on behalf of Domino Data Lab, Inc.
+
 
